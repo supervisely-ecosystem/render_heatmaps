@@ -1,0 +1,7 @@
+.vend
+supervisely
+*.env
+__pycache__
+.DS_Store
+heatmaps
+project
